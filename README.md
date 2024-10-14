@@ -1,2 +1,3 @@
-# kilo
-text editor in c
+### kilo
+
+text editor written in c [blog post](https://viewsourcecode.org/snaptoken/kilo/)
